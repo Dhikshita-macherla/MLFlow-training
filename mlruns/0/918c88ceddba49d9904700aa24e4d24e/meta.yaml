@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/918c88ceddba49d9904700aa24e4d24e/artifacts
+end_time: 1712569008558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 918c88ceddba49d9904700aa24e4d24e
+run_name: secretive-quail-857
+run_uuid: 918c88ceddba49d9904700aa24e4d24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712569006588
+status: 4
+tags: []
+user_id: dhikshita

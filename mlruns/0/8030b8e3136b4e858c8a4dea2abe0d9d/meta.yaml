@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/8030b8e3136b4e858c8a4dea2abe0d9d/artifacts
+end_time: 1712568827796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8030b8e3136b4e858c8a4dea2abe0d9d
+run_uuid: 8030b8e3136b4e858c8a4dea2abe0d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712568825842
+status: 4
+tags: []
+user_id: dhikshita

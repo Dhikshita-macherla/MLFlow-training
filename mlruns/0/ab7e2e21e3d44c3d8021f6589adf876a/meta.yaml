@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/ab7e2e21e3d44c3d8021f6589adf876a/artifacts
+end_time: 1712567810551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab7e2e21e3d44c3d8021f6589adf876a
+run_name: hilarious-shrike-969
+run_uuid: ab7e2e21e3d44c3d8021f6589adf876a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712567808670
+status: 4
+tags: []
+user_id: dhikshita

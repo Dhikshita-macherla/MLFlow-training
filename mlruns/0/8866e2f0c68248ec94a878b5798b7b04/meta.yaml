@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/8866e2f0c68248ec94a878b5798b7b04/artifacts
+end_time: 1712567770757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8866e2f0c68248ec94a878b5798b7b04
+run_name: fearless-cub-343
+run_uuid: 8866e2f0c68248ec94a878b5798b7b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712567768731
+status: 4
+tags: []
+user_id: dhikshita

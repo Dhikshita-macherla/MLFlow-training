@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/584e7707ae5a4440af36a0814817b6a5/artifacts
+end_time: 1712568928942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 584e7707ae5a4440af36a0814817b6a5
+run_name: victorious-crow-93
+run_uuid: 584e7707ae5a4440af36a0814817b6a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712568926992
+status: 4
+tags: []
+user_id: dhikshita
