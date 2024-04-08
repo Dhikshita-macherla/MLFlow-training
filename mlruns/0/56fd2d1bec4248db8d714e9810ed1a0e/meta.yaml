@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/56fd2d1bec4248db8d714e9810ed1a0e/artifacts
+end_time: 1712565962219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56fd2d1bec4248db8d714e9810ed1a0e
+run_name: worried-hog-208
+run_uuid: 56fd2d1bec4248db8d714e9810ed1a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712565861188
+status: 4
+tags: []
+user_id: dhikshita

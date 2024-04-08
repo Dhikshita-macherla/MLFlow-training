@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/484682744069022175/89dbc570400041f0a42ea806b162f4ee/artifacts
+end_time: 1712560301979
+entry_point_name: ''
+experiment_id: '484682744069022175'
+lifecycle_stage: active
+run_id: 89dbc570400041f0a42ea806b162f4ee
+run_name: brawny-pug-324
+run_uuid: 89dbc570400041f0a42ea806b162f4ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560298441
+status: 3
+tags: []
+user_id: dhikshita

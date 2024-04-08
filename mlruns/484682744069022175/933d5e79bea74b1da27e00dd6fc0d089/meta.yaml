@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/484682744069022175/933d5e79bea74b1da27e00dd6fc0d089/artifacts
+end_time: 1712560306974
+entry_point_name: ''
+experiment_id: '484682744069022175'
+lifecycle_stage: active
+run_id: 933d5e79bea74b1da27e00dd6fc0d089
+run_name: delightful-fly-19
+run_uuid: 933d5e79bea74b1da27e00dd6fc0d089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560304166
+status: 3
+tags: []
+user_id: dhikshita

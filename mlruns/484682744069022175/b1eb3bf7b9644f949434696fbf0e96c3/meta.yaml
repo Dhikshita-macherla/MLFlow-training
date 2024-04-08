@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/484682744069022175/b1eb3bf7b9644f949434696fbf0e96c3/artifacts
+end_time: 1712560304115
+entry_point_name: ''
+experiment_id: '484682744069022175'
+lifecycle_stage: active
+run_id: b1eb3bf7b9644f949434696fbf0e96c3
+run_name: traveling-gnat-630
+run_uuid: b1eb3bf7b9644f949434696fbf0e96c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560302052
+status: 3
+tags: []
+user_id: dhikshita

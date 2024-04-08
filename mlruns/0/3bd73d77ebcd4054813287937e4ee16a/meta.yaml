@@ -1,0 +1,15 @@
+artifact_uri: /home/dhikshita/MLFlow-training/mlruns/0/3bd73d77ebcd4054813287937e4ee16a/artifacts
+end_time: 1712566327628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bd73d77ebcd4054813287937e4ee16a
+run_name: spiffy-swan-66
+run_uuid: 3bd73d77ebcd4054813287937e4ee16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712566326296
+status: 4
+tags: []
+user_id: dhikshita
